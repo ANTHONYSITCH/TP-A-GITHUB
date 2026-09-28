@@ -33,5 +33,5 @@ Afficher l'historique en graphe quand c'est pertinent.
 
 ## Trois commits annotés
 1. <hash> : 6024155
-2. <hash> :
+2. <hash> :  bb41542
 3. <hash> :
